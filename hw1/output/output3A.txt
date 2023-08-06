@@ -1,0 +1,11 @@
+city,stars
+Aliso Viejo,5.0
+Belleville ,5.0
+Bridgeton ,5.0
+COLMAR,5.0
+Carpinteria ,5.0
+Center City Philadelphia,5.0
+Chattanooga,5.0
+Covington,5.0
+Crystal Beach,5.0
+Delaware County,5.0
