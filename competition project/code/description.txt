@@ -1,0 +1,17 @@
+Method description:
+I first add more features comparing to hw3 to train a XGBoost Regression model, and tune the parameters to get the best model with RMSE on validation set equals to 0.978.
+I also tried to train a CF model based on matrix completion and ALS, but the performance does not become better.
+I then tried weighted hybrid, switching hybrid, and Meta-Level hybrid, but the performance is still not better than XGBoost Regression model. Therefore, I finally used the XGBoost Regression model.
+
+Error Distribution:
+>=0 and <1: 102340
+>=1 and <2: 32773
+>=2 and <3: 6122
+>=3 and <4: 806
+>=4: 3
+
+RMSE:
+0.9778950293422132
+
+Execution Time:
+516s
